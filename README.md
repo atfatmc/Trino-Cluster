@@ -63,7 +63,7 @@ Kullanıcı Adı : postgres
 
 
 Tüm bu bağlantı bilgilerini .env dosyası içerisinden değiştirebilirsin. Dikkat et bazı değişikler farklı yerlerdede yapılmalı.
-Kurulum ve Konteynerları tamamladın buraya kadar... Detaylı Resimli Dökümantasyon için yazımı paylaşacağım.
+Kurulum ve Konteynerları tamamladın buraya kadar... 
 
-Link : yakında
+(https://medium.com/@atfatmc/docker-ile-trino-cluster-minio-server-postgresql-kurulumu-bc0235c954a9)
 
